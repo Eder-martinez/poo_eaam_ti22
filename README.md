@@ -1,2 +1,6 @@
-# poo_eaam_ti22
-ejercicios de la materia programación orienta a objetos 
+# Repositorio con los ejercicios de la materia Programacion Orientada a Objetos
+
+## Índice 
+
+|No.|Arichivo|Descripcion|
+|1|Hola mundo en Python|programa0.py|
