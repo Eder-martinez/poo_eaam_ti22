@@ -1,5 +1,5 @@
 """
-    programa2.py
+    programa3.py
     nombre:Eder AAM
     fecha:24/01/2023
     descripcion: se aprendio a sumar, multiplicar y dividir
