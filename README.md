@@ -10,3 +10,5 @@
 |4|programa3.py|multiplicacion, suma, division|
 |5|programa4.py|input, int|
 |6|triangulo.py|tarea|
+|7|circulo.py|perimetro|
+|8|cuadrado.py|area|
