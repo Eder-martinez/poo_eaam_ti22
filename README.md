@@ -9,3 +9,4 @@
 |3|programa2.py|errores de syntaxis y de key|
 |4|programa3.py|multiplicacion, suma, division|
 |5|programa4.py|input, int|
+|6|triangulo.py|tarea|
