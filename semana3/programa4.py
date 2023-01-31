@@ -1,8 +1,8 @@
 """
     programa4.py
     nombre:Eder AAM
-    fecha:24/01/2023
-    descripcion: 
+    fecha:30/01/2023
+    descripcion:comando input 
 """
 numero1 = input("numero1: ")  #  input siempre devuelve el dato como str
 numero2 = 10
@@ -16,3 +16,4 @@ multiplicacion = int(numero1) * numero2
 print(multiplicacion)
 potencia = int(numero1) ** numero2
 print(potencia)
+ 
