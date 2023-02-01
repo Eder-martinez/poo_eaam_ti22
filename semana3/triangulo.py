@@ -9,7 +9,7 @@ altura = None  #  el comando None denota falta de valor
 ladoa = None
 ladob = None
 ladoc = None
-while True:  #   son una estructura cíclica, que nos permite ejecutar una o varias líneas de código de manera repetitiva sin necesidad de tener un valor inicial e incluso a veces sin siquiera conocer cuando se va a dar el valor final que esperamos
+while True:  #  while es una estructura cíclica, que nos permite ejecutar una o varias líneas de código de manera repetitiva sin necesidad de tener un valor inicial e incluso a veces sin siquiera conocer cuando se va a dar el valor final que esperamos
   try:  #  Dentro del bloque try se ubica todo el código que pueda llegar a levantar una excepción
     ladoa = float(input("Escriba la ladoa del triangulo: "))
     break  #  el comando break hace un bucle en cuano se da una condicion externa

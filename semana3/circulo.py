@@ -13,5 +13,5 @@ while True:
     print("Debe escribir un numero")
 perimetro = radio * 2 * 3.1416
 print("El perimetro de un circulo con un radio de: {}, es: {}" .format(radio, perimetro))
-area = 3.1416 * radio**2
+area = 3.1416 * (radio**2)
 print("El area del circulo con un radio de: {}, es: {}" .format(radio, area))
