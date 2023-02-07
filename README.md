@@ -12,3 +12,4 @@
 |6|triangulo.py|tarea|
 |7|circulo.py|perimetro|
 |8|cuadrado.py|area|
+|9|programa11v.py|11 versiones de if|
