@@ -1,6 +1,6 @@
 class Persona: # clase persona
-    __nombre = None # la funcion none le asigna un valor nulo a la variable
-    __email = None # la funcion none le asigna un valor nulo a la variable
+    __nombre = None # la funcion none le asigna un valor nulo a la variable, los guiones antes de la variable indica que es privada
+    __email = None # la funcion none le asigna un valor nulo a la variable, los guiones antes de la variable indica que es privada
     def __init__(self): # constructor de la clase persona
         print("Persona") # imprime el texto persona
     def setNombre(self, nombre): # funcion para modificar la variable privada __nombre
